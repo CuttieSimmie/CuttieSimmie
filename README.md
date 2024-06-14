@@ -8,7 +8,3 @@
 - Pronouns: She
 - Fun fact: I love to encourage to make everyone I meet happy and give them a reason to pass it on to others 
 
-<!---
-CuttieSimmie/CuttieSimmie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
